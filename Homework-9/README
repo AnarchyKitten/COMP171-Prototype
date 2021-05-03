@@ -4,10 +4,14 @@ There are two webpages that are designed to measure two different map interactio
 Several locations will be provided to the Participants and requires them to locate the position on the map. Speed and correctness will be recorded for analysis.
 
 
+
 ### How to use these two .html files as prototype for testing:
 
 Organizer:
 1. Open the two pages with a common web browser on a PC. Start the experiment and observe the behaviors.
+Use these link:
+https://htmlpreview.github.io/?https://github.com/AnarchyKitten/COMP171-Prototype/blob/main/Homework-9/InputBoxUITest.html#
+https://htmlpreview.github.io/?https://github.com/AnarchyKitten/COMP171-Prototype/blob/main/Homework-9/MapUITest.html#
 
 Participants:
 2. For each experiment, click on the "new" button to generate a new location.
@@ -38,5 +42,5 @@ MapUITest: (If you want to edit the items, the list is on line 3628-3635)
 - "Statue of Liberty",
 - "Eiffel Tower",
 - "There is no road connecting North America and South America, <br> find the place in the narrow Central America where the road ends on either side. ",
-- "Napoleon Bonaparte was famous of being defeated in the battle of Waterloo,<br> a mounment was built near that ancient battlefield, <br>and was in the shape of a iron-cast lion. Can you find that monument? <br> Hint: Waterloo is in the south of the capital of Belgium.",
+- "Napoleon Bonaparte was famous of being defeated in the battle of Waterloo,<br> a monument was built near that ancient battlefield, <br>and was in the shape of an iron-cast lion. Can you find that monument? <br> Hint: Waterloo is in the south of the capital of Belgium.",
 - "The palace in the capital of British where the British Queen lives."
